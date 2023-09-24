@@ -1,5 +1,3 @@
-![Group 1](https://github.com/bielaugustos/bielaugustos/assets/132632103/aa6ca06e-c3e2-4a8b-ad38-3c4fb5b741d7)<div>
-
 <svg width="452" height="173" viewBox="0 0 452 173" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0 10C0 4.47715 4.47715 0 10 0L348.008 0C355.632 0 360.452 8.18971 356.75 14.855L271.783 167.855C270.02 171.03 266.673 173 263.041 173H10C4.47715 173 0 168.523 0 163V10Z" fill="#E4002B"/>
 <path d="M11 10C11 4.47715 15.4772 0 21 0L359.008 0C366.632 0 371.452 8.18971 367.75 14.855L282.783 167.855C281.02 171.03 277.673 173 274.041 173H21C15.4772 173 11 168.523 11 163V10Z" fill="#C724B1"/>
@@ -21,7 +19,7 @@
 
 **sobre mim:**
 
-no tempo livre, desenvolvo projetos web e aplicativos mobile.<br>
+desenvolvo aplicativos web e mobile com react.<br>
 
 * * *
   
