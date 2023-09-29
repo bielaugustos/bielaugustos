@@ -23,8 +23,8 @@ desenvolvo aplicativos web e mobile com react.<br>
 
 * * *
   
-- ⚛️ html | css | javaScript | git | estudando nodeJS | estudando react && react-native
-- 🎯 softwares que utilizo frequentemente: <br><br> - adobe illustrator | photoshop | after effects | premiere <br> - figma | miro | notion
+- ⚛️ html | css | javaScript | git | estudando nodeJS | estudando react && react-native | na rocketseat, ibm, microsoft learn && mdn web docs
+- 🎯 softwares que utilizo frequentemente: <br><br> - adobe illustrator | photoshop | after effects | premiere <br> - figma | notion <br> - vscode, codespace | codepen <br>
 - ✨ aberto para opensource !
 - 📫 me encontre no linkedIn <br><br>
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsavaccini/)
