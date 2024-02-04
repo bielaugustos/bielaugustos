@@ -3,7 +3,10 @@
 </svg> Hello World !
 
 
-Meu nome é Gabriel e desenvolvo aplicativos web e mobile com react.<br>
+Meu nome é Gabriel e desenvolvo aplicativos web e mobile com react.
+* * *
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bielaugustos&theme=ambient_gradient&show_icons=true&hide_border)
+
 
 
 * * *
@@ -14,9 +17,8 @@ Meu nome é Gabriel e desenvolvo aplicativos web e mobile com react.<br>
 - 📫 me encontre no linkedIn <br><br>
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsavaccini/)
 
-
 - 🚀 "só de estar na busca, já estou além do que supus."
 
 * * *
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bielaugustos&show_icons=true&bg_color=00000000)
+
