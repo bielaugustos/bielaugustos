@@ -19,8 +19,6 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsavaccini/)
 [![Instagram](https://img.shields.io/badge/instagram-%230077B5.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bielaugustos/)
 
-- 🚀 "só de estar na busca, já estou além do que supus."
-
 * * *
 
 
