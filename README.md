@@ -25,8 +25,14 @@
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=bielaugustos&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/bielaugustos/brunotacca?color=black&logo=github" />
 </p>
+
+<div align="center">
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=bielaugustos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+              
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielaugustos&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
 
